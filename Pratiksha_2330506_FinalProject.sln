@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05A38650-9F74-41C1-9344-58E26D2F8438}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		script.js = script.js
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{FB7319F8-B84E-4EF5-889A-926D7C3045BA}"
+	ProjectSection(SolutionItems) = preProject
+		img\background-footer.png = img\background-footer.png
+		img\banner.png = img\banner.png
+		img\body-background.png = img\body-background.png
+		img\careerobjective.png = img\careerobjective.png
+		img\dp.png = img\dp.png
+		img\facebook.png = img\facebook.png
+		img\googleplus.png = img\googleplus.png
+		img\img1.png = img\img1.png
+		img\img2.png = img\img2.png
+		img\img3.png = img\img3.png
+		img\insta.jpeg = img\insta.jpeg
+		img\personal-details.jpeg = img\personal-details.jpeg
+		img\personal-details.png = img\personal-details.png
+		img\profile-header-image.png = img\profile-header-image.png
+		img\skillsandabilities.png = img\skillsandabilities.png
+		img\twitter.png = img\twitter.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB7319F8-B84E-4EF5-889A-926D7C3045BA} = {05A38650-9F74-41C1-9344-58E26D2F8438}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9E6880-D113-4A8D-BD9F-424698AB9126}
+	EndGlobalSection
+EndGlobal
